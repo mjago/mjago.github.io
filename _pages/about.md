@@ -1,31 +1,35 @@
 ---
-layout:    about
+layout:    page
 permalink: "/about/"
-author:    jwillmer
-keywords:  about person demo example
-title:     About Jens Willmer
+author:    mjago
+keywords:  about martyn jago
+title:     Resume
 menutitle: About
 weight:    90
-excerpt:   This page contains the curriculum vitae (CV) of the author.
+excerpt:   Resume.
+
 ---
 
 ## Profile
 
-Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat.
+- Resourceful and Creative - always open to a fresh challenge.
+- Many years of solving Engineering problems with Software and Hardware.
 
 ---
 
-## Skills
+## Languages
 
-- Praesent ac augue imperdiet, interdum purus id, sollicitudin sem.
-- Sed pellentesque urna a magna suscipit volutpat.
-- Donec ultricies lectus non augue dictum hendrerit ac ac lorem.
-- Integer eget dui eu purus luctus posuere in non metus.
-- Nam ac felis eget tortor blandit gravida non et diam.
+- C, Javascript, Assembler, SQL, Ruby, Python, VB, C++, Lisp
 
 ---
 
-## Education
+## Tools
 
-2009 - 2012
-: Mauris vitae velit vel leo suscipit tempus vel vel elit.
+- Compilers (MPLab X, IAR, GCC, XCode, Clang)
+- Unit test frameworks (Unity, Google test, CppUTest)
+- VC (Git, SVN, Mercurial)
+- CI (Travis, Jenkins, Cruise control)
+- Project Management (Redmine, Trac)
+
+
+

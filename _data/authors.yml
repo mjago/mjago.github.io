@@ -1,16 +1,16 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      jwillmer                                      # used for author lookup in posts and for first two characters in the about page back button
+  initial:      mjago                                         # used for author lookup in posts and for first two characters in the about page back button
   name:         "Jens Willmer"                                # used to display author name
-  cover:        /assets/horizon.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:      /assets/jwillmer.jpg                          # OPTIONAL: author picture
+  cover:        /assets/earth.jpg        # OPTIONAL: defines location of cover image in about page
+  picture:      /assets/me.jpg                          # OPTIONAL: author picture
   bio:          All about technology                          # OPTIONAL: text below author name in posts
-  location:     Germany                                       # OPTIONAL: used to display location of the author
+  location:     UK                                            # OPTIONAL: used to display location of the author
   website:      "http://jwillmer.de/about"                    # OPTIONAL: link to the author of a post
   email:                                                      # OPTIONAL: used in the about page
-  twitter:      jenswillmer                                   # OPTIONAL: used in the about page
+  twitter:      mjago                                         # OPTIONAL: used in the about page
   linkedin:                                                   # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
-  github:       jwillmer                                      # OPTIONAL: used in the about page
+  github:       mjago                                         # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
   facebook:                                                   # OPTIONAL: used in the about page
   gplus:                                                      # OPTIONAL: used in the about page
@@ -20,12 +20,12 @@ default:                                                      # Fallback if noth
   dribble:                                                    # OPTIONAL: used in the about page
   behance:                                                    # OPTIONAL: used in the about page
 jwillmer:
-  initial:      jwillmer
-  name:         "Jens Willmer"        
-  cover:        /assets/horizon.jpg  
-  picture:      /assets/jwillmer.jpg  
-  bio:          All about technology 
-  location:     Germany 
+  initial:      mjago
+  name:         "Martyn Jago"        
+  cover:        /assets/earth.jpg  
+  picture:      /assets/me.jpg  
+  bio:          Stuff
+  location:     UK
   website:      "http://jwillmer.de/about" 
   twitter:      jenswillmer
   github:       jwillmer
