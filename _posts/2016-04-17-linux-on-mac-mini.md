@@ -19,7 +19,7 @@ I am in posession of an old Mac mini circa 2009. The exact details follow:
 - RAM	1 GB	VRAM	64 MB
 - Storage	120 GB (5400 RPM)	Optical	2.4X "SuperDrive"
 
-Since the hardware will no longer support Apple's supported OS X I
+Since the hardware will no longer support Apple's supported OSX I
 decided to try and install a version of Linux on it.
 
 ## Lubuntu
@@ -34,5 +34,5 @@ The only real complication I found was due to the use of EFI
 (Extensible Firmware Interface) as opposed to GRUB. Useful background can be found [here](http://www.rodsbooks.com/ubuntu-efi/) and [here](https://help.ubuntu.com/community/UEFIBooting).
 
 Installation was fairly straight-forward and the Mac-mini now runs a
-fairly simply HTML5 home media server (written in NodeJS), serving
+fairly simple HTML5 home media server (written in NodeJS), serving
 movies, photos, and links to anyone on the family network.
